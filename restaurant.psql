@@ -1,0 +1,8 @@
+CREATE DATABASE restaurant;
+CREATE TABLE restaurant.restaurant (firstname CHAR(15),
+ lastname CHAR(20), 
+ Distance(in miles from HeadQuarters), 
+ Stars(rating), 
+ Category(type of food), 
+ Favorite dish, Does takeout?, 
+ Last time you ate there);
